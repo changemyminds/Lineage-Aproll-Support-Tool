@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\AIProIISupport\AIProIISupport\obj\Release\AprollSupport.addRoleForm.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\AIProIISupport\AIProIISupport\obj\Release\AprollSupport.MainForm.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\AIProIISupport\AIProIISupport\obj\Release\AIProIISupport.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\AIProIISupport\AIProIISupport\bin\Release\AIProIISupport.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\AIProIISupport\AIProIISupport\bin\Release\AIProIISupport.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\AIProIISupport\AIProIISupport\obj\Release\AIProIISupport.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\AIProIISupport\AIProIISupport\obj\Release\AIProIISupport.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\AIProIISupport\AIProIISupport\obj\Release\AIProIISupport.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\C#\AIProIISupport\AIProIISupport\obj\Release\AIProIISupport.pdb
