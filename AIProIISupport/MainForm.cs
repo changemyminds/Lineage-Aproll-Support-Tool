@@ -13,7 +13,6 @@ namespace AprollSupport
     public partial class MainForm : Form
     {
         private static MainForm form = null;
-
         FileManger fileManger = null;
 
         private MainForm()
